@@ -1,0 +1,26 @@
+{
+  "name": "debugchromehandson",
+  "version": "1.0.0",
+  "description": "Hands-On sobre as ferramentas para o desenvolvedor no Chrome",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshimao/debugchromehandson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshimao/debugchromehandson/issues"
+  },
+  "homepage": "https://github.com/mshimao/debugchromehandson#readme",
+  "dependencies": {
+    "local-web-server": "^5.1.1",
+    "lws": "^4.1.0"
+  }
+}
