@@ -2,11 +2,11 @@
 
 ###Explorar o CSS Overview
 
-Abrir a página abaixo:
+Abrir a página abaixo no Chrome:
 
 https://developer.chrome.com/tags/devtools/
 
-Para abrir o CSS Overview, abrir o DevTools, depois clicar no ícone **More options** (3 pontos na vertical), clicar em **More tools** e clicar em **CSS Overview**. 
+Abrir o CSS Overview, abrir o DevTools, depois clicar no ícone **More options** (3 pontos na vertical), clicar em **More tools** e clicar em **CSS Overview**. 
 
 ![CSSOverview](/images/css-overview.png)
 
